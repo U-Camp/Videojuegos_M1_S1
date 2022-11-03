@@ -1,26 +1,26 @@
 ## Tabla de contenido
 - [Tabla de contenido](#tabla-de-contenido)
-- [## Introducción](#-introducción)
+- [Introducción](#introducción)
 - [## Videojuegos, el séptimo arte](#-videojuegos-el-séptimo-arte)
-- [## Game engines (motores de juego)](#-game-engines-motores-de-juego)
-- [## Licenciamiento](#-licenciamiento)
-- [## Instalación de Unity](#-instalación-de-unity)
-- [# Opciones de Unity Hub](#-opciones-de-unity-hub)
-- [### Projects (proyectos)](#-projects-proyectos)
-- [### Installs (instalaciones)](#-installs-instalaciones)
-- [### Learn (Aprendizaje)](#-learn-aprendizaje)
-- [### Community (comunidad)](#-community-comunidad)
-- [## Instalación](#-instalación)
-- [## Interfaz del editor](#-interfaz-del-editor)
+- [Game engines (motores de juego)](#game-engines-motores-de-juego)
+- [Licenciamiento](#licenciamiento)
+- [Instalación de Unity](#instalación-de-unity)
+- [Opciones de Unity Hub](#opciones-de-unity-hub)
+- [Projects (proyectos)](#projects-proyectos)
+- [Installs (instalaciones)](#installs-instalaciones)
+- [Learn (Aprendizaje)](#learn-aprendizaje)
+- [Community (comunidad)](#community-comunidad)
+- [Instalación](#instalación)
+- [Interfaz del editor](#interfaz-del-editor)
 - [Crear un GAMEOBJECT](#crear-un-gameobject)
-- [## Componente TRANSFORM](#-componente-transform)
-- [## Nombre de objetos y Emparentamiento](#-nombre-de-objetos-y-emparentamiento)
-- [## Navegación en la escena](#-navegación-en-la-escena)
-- [## Reto de la semana](#-reto-de-la-semana)
-- [## Rescatando lo importante](#-rescatando-lo-importante)
+- [Componente TRANSFORM](#componente-transform)
+- [Nombre de objetos y Emparentamiento](#nombre-de-objetos-y-emparentamiento)
+- [Navegación en la escena](#navegación-en-la-escena)
+- [Reto de la semana](#reto-de-la-semana)
+- [Rescatando lo importante](#rescatando-lo-importante)
 
-## Introducción
----
+Introducción
+-------------------
 Antes de comenzar con nuestro viaje en la magia que hace posibles los videojuegos, me permito darte la bienvenida a este Bootcamp; es un regocijo ver cada vez a más colegas amantes del género, con gran curiosidad y avidez del conocimiento para ser parte de esta industria.
 
 Los videojuegos han evolucionado de ser solo un medio de entretenimiento a proveer soluciones para diferentes sectores, como la medicina, la arquitectura, la industria automovilística, la mercadotecnia y muchos otros.
@@ -37,7 +37,8 @@ En este módulo vamos a desentrañar las siguientes incógnitas:
 Sin más preámbulo, vamos a comenzar, let’s go.
 
 ## Videojuegos, el séptimo arte
----
+-------------------
+
 Bien dice el dicho: “quien no conoce su historia está condenado a repetirla”, y como en muchas otras áreas, en el mundo del desarrollo de videojuegos tenemos una gran historia.
 
 Alguna vez te has preguntado **¿Cuáles fueron los primeros videojuegos?**
@@ -98,8 +99,8 @@ En el siguiente recurso se ofrece más información acerca de la historia de la
 
 En más de 80 años de historia, los videojuegos han pasado por una gran evolución, que nos permite hoy en día disfrutar de grandes títulos y, a su vez, tener a la mano la oportunidad de ser parte de aquellos que crean la magia.
 
-## Game engines (motores de juego)
----
+Game engines (motores de juego)
+-------------------
 Alguna vez te has preguntado **cómo sacan juegos de FIFA cada año.** Esa pregunta es clave, aunque el juego tal vez no tanto; eso depende de ti.
 
 Cuando el mercado comenzó a crecer tanto, la velocidad de creación se convirtió en un elemento clave en la industria; muy pronto, algunas compañías empezaron a crear sus propios motores de juegos y programas de software muy especializados, que les servían para agilizar muchísimo su desarrollo y no tener que hacer de cero siempre todas las cosas; tal es el caso de Mario.
@@ -178,8 +179,8 @@ Toma unos minutos para reflexionar antes de continuar la lectura.
 
 ¿Listos? la respuesta puede no ser muy obvia, lo cual es también muy importante, y es algo por lo que Unity ha ganado terreno: su **licenciamiento**.
 
-## Licenciamiento
----
+Licenciamiento
+-------------------
 Pongámonos en los pies de las grandes compañías, que invierten muchísimo dinero en equipo y expertos para desarrollar durante meses e incluso años un juego. Todo ese tiempo y todas esas personas deben ser recompensados por su trabajo, y de algún lado debe salir ese dinero. Así, como en el cine, los grandes juegos representan grandes inversiones de tiempo y dinero. Las licencias marcan una pauta importante en el costo del proyecto o en las ganancias de este. No entraremos mucho en detalle, pero vamos a hablar un poco de cómo es que funcionan los diferentes licenciamientos en los motores.
 
 *  [Unity](https://www.google.com/url?q=https://store.unity.com/%23plans-business&sa=D&source=editors&ust=1667515660029928&usg=AOvVaw1nbrNzJJ78HwMBOGc4tZ07)
@@ -210,8 +211,8 @@ Y ahora, ¿qué piensas? Espero que coincidamos. Sin duda **Unity es la mejor he
 
 ¿Qué estamos esperando? ¡Vamos, ahora sí! Nuestra princesa sí está en este castillo.
 
-## Instalación de Unity 
----
+Instalación de Unity 
+-------------------
 Pasemos a la acción, o como decimos en México: ¡a darle, que es mole de olla! Vamos juntos a empezar el viaje; vamos a ver juntos el proceso de instalación de Unity, desde la descarga de la herramienta hasta la creación de nuestro primer proyecto.
 
 Para empezar, vamos a ir a la página oficial de Unity:
@@ -266,22 +267,22 @@ La cuenta que acabas de crear es importante porque Unity liga sus servicios a la
 
 Ahora sí vamos a explicar qué opciones tenemos en el programa de Unity Hub.
 
-# Opciones de Unity Hub
----
+Opciones de Unity Hub
+-------------------
 ![](Readme_src/image51.png)
 
 Nos podemos dar cuenta inmediatamente de que Unity no tiene 100 % de su material traducido, por lo que es muy frecuente encontrar documentación y opciones en inglés. Todo el curso se dará en español, pero es altamente recomendable. para mejorar su experiencia. aprender inglés.
 
-### Projects (proyectos)
----
+Projects (proyectos)
+-------------------
 En el apartado de proyectos es justamente donde vamos a gestionar nuestros proyectos, ya sean juegos, interactivos o aquellos que estén planteados para una plataforma u otra. Todos se concentran aquí, y lo más relevante para Unity Hub es guardar la relación sobre qué versión del editor está configurada para cada uno de los proyectos.
 
 En este mismo espacio podemos crear nuevos proyectos, así como abrirlos, en caso de que los tengamos en el equipo pero no se encuentren en la lista. También podemos eliminar nuestros proyectos. Recuerda siempre tener un respaldo antes de borrar cualquier cosa. Y, por si tenías la duda, también hay que tener un respaldo antes de convertir un proyecto de una versión a otra; Unity siempre nos recordará de hacer esto, pero nos conviene que seamos nosotros quienes tengamos ese cuidado.
 
 ![](Readme_src/image3.png)
 
-### Installs (instalaciones)
----
+Installs (instalaciones)
+-------------------
 En la sección de instalaciones, vamos a ver una lista de las diferentes versiones del editor que tenemos; de inicio, debe estar vacía, pero conforme vayamos trabajando se deben agregar los editores.
 
 ![](Readme_src/image45.png)
@@ -296,16 +297,16 @@ También cabe resaltar que los últimos dígitos, que en este caso son 11F1, pue
 
 ![](Readme_src/image22.png)
 
-### Learn (Aprendizaje)
----
+Learn (Aprendizaje)
+-------------------
 El tercer apartado disponible en Unity Hub es una sección dedicada al aprendizaje, en la que encontramos proyectos y artículos de Unity que nos ayudarán a aprender nuevos conceptos. Unity ofrece muchos recursos de este tipo, porque para Unity es muy importante que su comunidad pueda ver las nuevas características y aprenda a utilizarlas. La mayoría del contenido, como lo comentamos anteriormente, está en inglés y tratan de mantenerlo al día, pero hay algunos temas que yo mismo he visto y se tienen que hacer adaptaciones al editor más actual.
 
 ![](Readme_src/image42.png)
 
 Los invito a que dejen que su curiosidad los invada y prueben algunos de estos materiales, sobre todo los llamados microproyectos, que son juegos que vienen codificados parcialmente y en los que Unity te va llevando de la mano para explicarte cómo realizar ciertos cambios. Estos representan una gran forma de aprender, aunque pueden ser abrumadores si no se conocen aún la interfaz y los conceptos básicos. Pero no te preocupes, porque estamos aquí para hacer que este primer acercamiento sea suave y que no te pierdas ningún detalle en el camino.
 
-### Community (comunidad)
----
+Community (comunidad)
+-------------------
 El apartado final de Unity Hub es la sección de comunidad, como lo decíamos anteriormente, que es uno de los puntos más fuertes de Unity. Tiene una gran comunidad, y aquí mismo Unity nos provee de los accesos a los sitios más importantes, como es:
 
 *   El blog donde hablan de eventos, noticias, anuncios de nuevas características, etcétera.
@@ -313,8 +314,8 @@ El apartado final de Unity Hub es la sección de comunidad, como lo decíamos an
 
 Estoy seguro de que, como yo, encontrarás un gran aliado en el foro. Cuanto más avances, más te darás cuenta de que hay personas que ya pasaron por este mismo camino, y su experiencia nos ayudará a encontrar las mejores soluciones a lo que sea que busquemos.
 
-## Instalación
----
+Instalación
+-------------------
 Ahora sí, la hora ha llegado, vamos a instalar nuestro editor, que es donde realmente vamos a trabajar.
 
 Para ello, vamos a seleccionar la sección de Instalaciones (Installs) y a dar clic en el botón de Instalar editor (Install editor).
@@ -363,8 +364,8 @@ Como digna introducción de Final fantasy o Dragon quest, después de horas de
 
 ![](Readme_src/image16.png)
 
-## Interfaz del editor  
---- 
+Interfaz del editor  
+-------------------
 
 Unity es una herramienta poderosa, y como diría el buen tío Ben (de la película Spider Man): “Un gran poder, conlleva una gran responsabilidad”; sin embargo, antes de todo, necesitamos saber cómo se usa este poder.
 
@@ -454,8 +455,9 @@ Hasta este momento vamos a realizar dos ejercicios
 
 ![](Readme_src/image37.png)
 
-## Componente TRANSFORM
----
+Componente TRANSFORM
+-------------------
+
 Ahora que sabemos cuales son las diferentes ventanas del editor vamos a ver dos componentes muy importantes y vamos a modificarlos para poder utilizar las dos ventanas que nos faltan tanto project como console.
 
 Primero que nada debemos aclarar dos conceptos muy importantes, que es un gameobject y que es un componenet.
@@ -497,8 +499,8 @@ Para hacer esto más sencillo vamos a ver un ejemplo, en este ejemplo creamos 3 
 
 Con esto podemos ver la utilidad del componente transform.
 
-## Nombre de objetos y Emparentamiento
-  ---  
+Nombre de objetos y Emparentamiento
+-------------------  
 ![](Readme_src/image27.gif)
 
 Existen varias formas de renombrar un GAMEOBJECT, esto es una tarea muy común de manera que aquí expondremos todas las formas para que cada uno pueda elegir la que más se acomode a su forma de trabajo.
@@ -537,8 +539,8 @@ En Unity también existe un concepto que se llama emparentamiento que tiene dife
 
 A través del emparentamiento podemos hacer que un gameobject se convierta en Hijo de otro y esto ocasionará que el origen del objeto hijo ahora dependa del objeto padre lo que se llama local position, esto puede afectar de muchas formas pero la más visible es en su transform.
 
-## Navegación en la escena
-   --- 
+Navegación en la escena
+-------------------
 
 Por último y para terminar esta lectura seguramente te estarás preguntando algo muy común en este tipo de herramientas.
 
@@ -571,8 +573,9 @@ Los diferentes tipos de movimiento por el orden en que aparecen en la barra de h
 
 Es posible cambiar entre ellos de forma rápida al tener el cursor dentro de la ventana scene y presionar la letra correspondiente a cada uno por ejemplo R para activar la herramienta de escalado.
 
-## Reto de la semana
-   --- 
+Reto de la semana
+-------------------
+
 Para poner a prueba nuestros conocimientos básicos sobre el editor y los componentes vamos a realizar el siguiente ejercicio.
 
 ![](Readme_src/image41.gif)
@@ -591,8 +594,8 @@ Instrucciones:
 
 >\*Recuerda, para guardar tu trabajo solo tienes que ir a archivo guardar o presionar CTRL + S.
 
-## Rescatando lo importante
-   --- 
+Rescatando lo importante
+------------------- 
 
 Realicemos un resumen sobre los temas visto en esta semana:
 
