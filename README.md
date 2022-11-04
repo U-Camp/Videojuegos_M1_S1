@@ -235,7 +235,8 @@ Para empezar, vamos a ir a la página oficial de Unity:
 Aquí, tendremos la oportunidad de seguir explorando qué es Unity, sus servicios, licencias, juegos desarrollados y acercamientos a distintas industrias. De la página nos interesa llegar a la opción para descargar Unity.
 
 <p align="center">
-[unity download](https://unity.com/es/download)
+<a href="https://unity.com/es/download"></a>
+unity download
 </p>
 
 En la misma página, Unity nos indica cuáles deben ser nuestros primeros pasos, los cuales vamos a seguir y a explorar en este curso.
@@ -428,7 +429,7 @@ Sientanse con la libertad de probarlos todos, según vayamos trabajando, el curs
 Vamos a ver cual es la función de cada una de las ventanas con el ejemplo de la documentación de UNITY, misma que se puede consultar en:
 
 <p align="center">
-[docs unity3d](https://docs.unity3d.com)
+<a href="https://docs.unity3d.com">Documentación unity</a>
 </p>
 
 <p align="center">
