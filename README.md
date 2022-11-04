@@ -55,7 +55,7 @@ A continuación tenemos algunos pininos en el tema:
 <img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image49.png">
 </p>
 
-1.  [Pong](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000559&usg=AOvVaw1L7D100Nz7JWNWaz6_L10E) [(1972](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000970&usg=AOvVaw0RGnerpmw-_Adv_ht3EEZv))
+2.  [Pong](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000559&usg=AOvVaw1L7D100Nz7JWNWaz6_L10E) [(1972](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000970&usg=AOvVaw0RGnerpmw-_Adv_ht3EEZv))
     - 32 años y mucho avance, sobre todo en el hardware, se requerían para hacer funcionar los juegos. **Atari** lanza al mercado el juego de Pong, un simulador de juego de pimpón para dos jugadores.
     - Tres años más tarde, Atari lanza la primera consola, una versión casera de Pong. En esta versión solo se podía jugar Pong y no era de cartuchos intercambiables.
      - Aquí comienza la acción de grandes compañías queriendo hacer sus propias máquinas de arcade y caseras para competir en el mercado.
@@ -111,7 +111,9 @@ Alguna vez te has preguntado **cómo sacan juegos de FIFA cada año.** Esa preg
 
 Cuando el mercado comenzó a crecer tanto, la velocidad de creación se convirtió en un elemento clave en la industria; muy pronto, algunas compañías empezaron a crear sus propios motores de juegos y programas de software muy especializados, que les servían para agilizar muchísimo su desarrollo y no tener que hacer de cero siempre todas las cosas; tal es el caso de Mario.
 
+<p align="center">
 **¿Alguna vez has jugado Mario Maker?**
+</p>
 
 ![](Readme_src/image2.png)
 
@@ -176,8 +178,9 @@ Pues si todavía no lo sabes o no estás convencido, permíteme indicar por qué
 Todas estas características son muy importantes para aquellos que desean aprender una herramienta de vanguardia, con planes de crecimiento y un futuro brillante. Además de estas características, existe otra muy importante, tanto que seguramente es la gota que inclina la balanza en grandes y pequeñas empresas respecto a usar uno u otro motor.
 
 Pensemos en
-
+<p align="center">
 **¿Qué es más importante que las características que ofrece una herramienta?**
+</p>
 
 Toma unos minutos para reflexionar antes de continuar la lectura.
 
@@ -223,13 +226,17 @@ Pasemos a la acción, o como decimos en México: ¡a darle, que es mole de olla
 
 Para empezar, vamos a ir a la página oficial de Unity:
 
-[https://unity.com/es](https://www.google.com/url?q=https://unity.com/es&sa=D&source=editors&ust=1667515660038426&usg=AOvVaw168D02O33NqUPNjbdLNVUQ)
+<p align="center">
+[https://unity.com/es](https://unity.com/es)
+</p>
 
 ![](Readme_src/image8.png)
 
 Aquí, tendremos la oportunidad de seguir explorando qué es Unity, sus servicios, licencias, juegos desarrollados y acercamientos a distintas industrias. De la página nos interesa llegar a la opción para descargar Unity.
 
-[https://unity.com/es/download](https://www.google.com/url?q=https://unity.com/es/download&sa=D&source=editors&ust=1667515660040197&usg=AOvVaw14oy6JW1ynzOqZpipr0HTi)
+<p align="center">
+[https://unity.com/es/download](https://unity.com/es/download)
+</p>
 
 En la misma página, Unity nos indica cuáles deben ser nuestros primeros pasos, los cuales vamos a seguir y a explorar en este curso.
 
@@ -301,7 +308,9 @@ En la sección de instalaciones, vamos a ver una lista de las diferentes version
 
 Todavía no instalamos nuestro editor, pero es importante comentar, para aquellos que van a empezar a instalar el editor antes de seguir leyendo esto, que la versión que usaremos en el curso es la siguiente:
 
+<p align="center">
 **2021.3.11F1**
+</p>
 
 Es importante saber que esta versión está marcada como LTS, que significa long term support, es decir, que tendrá respaldo del equipo de Unity para arreglar problemas de estabilidad y segurida, por un largo periodo de tiempo, ya que hay proyectos que duran años. Esto es muy importante.
 
@@ -418,7 +427,9 @@ Sientanse con la libertad de probarlos todos, según vayamos trabajando, el curs
 
 Vamos a ver cual es la función de cada una de las ventanas con el ejemplo de la documentación de UNITY, misma que se puede consultar en:
 
-[https://docs.unity3d.com/](https://www.google.com/url?q=https://docs.unity3d.com/&sa=D&source=editors&ust=1667515660066089&usg=AOvVaw3aQ9QpTK1iazM1TvAlqGif)
+<p align="center">
+[https://docs.unity3d.com/](https://docs.unity3d.com/)
+</p>
 
 <p align="center">
 <img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image47.png">
@@ -581,7 +592,7 @@ Por último y para terminar esta lectura seguramente te estarás preguntando alg
 
 Esto depende mucho de si estamos trabajando una escena 3D o 2D, comenzaremos con la más fácil que es la 2D.
 
-\[INSERTAR GIF m1s1-movement-in-scene.gif\]
+![](Readme_src/m1s1-movement-in-scene.gif)
 
 En una escena 2D hay pocos movimientos que debemos perfeccionar.
 
