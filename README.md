@@ -16,7 +16,7 @@
 - [Componente TRANSFORM](#componente-transform)
 - [Nombre de objetos y Emparentamiento](#nombre-de-objetos-y-emparentamiento)
 - [Navegación en la escena](#navegación-en-la-escena)
-- [Reto de la semana](#reto-de-la-semana)
+- [Ponte a prueba](#ponte-a-prueba)
 - [Rescatando lo importante](#rescatando-lo-importante)
 
 Introducción
@@ -619,7 +619,7 @@ Los diferentes tipos de movimiento por el orden en que aparecen en la barra de h
 
 Es posible cambiar entre ellos de forma rápida al tener el cursor dentro de la ventana scene y presionar la letra correspondiente a cada uno por ejemplo R para activar la herramienta de escalado.
 
-Reto de la semana
+Ponte a prueba
 -------------------
 
 Para poner a prueba nuestros conocimientos básicos sobre el editor y los componentes vamos a realizar el siguiente ejercicio.
