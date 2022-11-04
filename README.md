@@ -227,7 +227,7 @@ Pasemos a la acción, o como decimos en México: ¡a darle, que es mole de olla
 Para empezar, vamos a ir a la página oficial de Unity:
 
 <p align="center">
-[https://unity.com/es](https://unity.com/es)
+[unity.com](https://unity.com/es)
 </p>
 
 ![](Readme_src/image8.png)
@@ -235,7 +235,7 @@ Para empezar, vamos a ir a la página oficial de Unity:
 Aquí, tendremos la oportunidad de seguir explorando qué es Unity, sus servicios, licencias, juegos desarrollados y acercamientos a distintas industrias. De la página nos interesa llegar a la opción para descargar Unity.
 
 <p align="center">
-[https://unity.com/es/download](https://unity.com/es/download)
+[unity download](https://unity.com/es/download)
 </p>
 
 En la misma página, Unity nos indica cuáles deben ser nuestros primeros pasos, los cuales vamos a seguir y a explorar en este curso.
@@ -428,7 +428,7 @@ Sientanse con la libertad de probarlos todos, según vayamos trabajando, el curs
 Vamos a ver cual es la función de cada una de las ventanas con el ejemplo de la documentación de UNITY, misma que se puede consultar en:
 
 <p align="center">
-[https://docs.unity3d.com/](https://docs.unity3d.com/)
+[docs unity3d](https://docs.unity3d.com)
 </p>
 
 <p align="center">
