@@ -1,7 +1,7 @@
 ## Tabla de contenido
 - [Tabla de contenido](#tabla-de-contenido)
 - [Introducción](#introducción)
-- [## Videojuegos, el séptimo arte](#-videojuegos-el-séptimo-arte)
+- [Videojuegos, el séptimo arte](#videojuegos-el-séptimo-arte)
 - [Game engines (motores de juego)](#game-engines-motores-de-juego)
 - [Licenciamiento](#licenciamiento)
 - [Instalación de Unity](#instalación-de-unity)
@@ -36,7 +36,7 @@ En este módulo vamos a desentrañar las siguientes incógnitas:
 
 Sin más preámbulo, vamos a comenzar, let’s go.
 
-## Videojuegos, el séptimo arte
+Videojuegos, el séptimo arte
 -------------------
 
 Bien dice el dicho: “quien no conoce su historia está condenado a repetirla”, y como en muchas otras áreas, en el mundo del desarrollo de videojuegos tenemos una gran historia.
@@ -52,22 +52,24 @@ A continuación tenemos algunos pininos en el tema:
     - Un juego que pone a dos jugadores (una computadora y una persona) a elegir y sacar cerillos; es necesario un análisis matemático para elegir bien, y quien tome el último pierde.
     - En [este enlace](https://www.google.com/url?q=https://patents.google.com/patent/US2215544&sa=D&source=editors&ust=1667515659999256&usg=AOvVaw2Jez9_pVqO88J-0Xp1H02g) puedes ver el plano original de la máquina que se necesitaba para este juego. **Máquinas de tamaños inconcebibles** hoy en día para un solo juego.
 <p align="center">
-<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image12.png">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image49.png">
 </p>
 
 1.  [Pong](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000559&usg=AOvVaw1L7D100Nz7JWNWaz6_L10E) [(1972](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000970&usg=AOvVaw0RGnerpmw-_Adv_ht3EEZv))
     - 32 años y mucho avance, sobre todo en el hardware, se requerían para hacer funcionar los juegos. **Atari** lanza al mercado el juego de Pong, un simulador de juego de pimpón para dos jugadores.
     - Tres años más tarde, Atari lanza la primera consola, una versión casera de Pong. En esta versión solo se podía jugar Pong y no era de cartuchos intercambiables.
      - Aquí comienza la acción de grandes compañías queriendo hacer sus propias máquinas de arcade y caseras para competir en el mercado.
-
-![](Readme_src/image12.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image12.png">
+</p>
 
 3.  [Space invaders](https://www.google.com/url?q=https://youtu.be/MU4psw3ccUI?t%3D15&sa=D&source=editors&ust=1667515660003457&usg=AOvVaw2_kYeOyq0P84VymXBDL_xB) [(1978](https://www.google.com/url?q=https://youtu.be/MU4psw3ccUI?t%3D15&sa=D&source=editors&ust=1667515660003898&usg=AOvVaw0hBDv4WALcX41UFzxsRH9J))
 
     - El juego que hizo que todo el mundo perdiera la cabeza, el juego que comenzó la revolución de las máquinas arcade y a ver a los juegos con ánimo de competencia entre amigos.
     - Incluso, se dice que Space Invaders causó que hubiera escasez de monedas, debido a la popularidad del juego.
-
-![](Readme_src/image36.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image36.png">
+</p>
 
 4.  [Pacman](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdScq4P5gn4A%26ab_channel%3DOldClassicRetroGaming&sa=D&source=editors&ust=1667515660005541&usg=AOvVaw2TN46KxZkJBDwN-xqyXpLv) [(1980](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdScq4P5gn4A%26ab_channel%3DOldClassicRetroGaming&sa=D&source=editors&ust=1667515660005948&usg=AOvVaw3mrfbfcTLEaRWp6BUUnHrk))
 
@@ -75,7 +77,9 @@ A continuación tenemos algunos pininos en el tema:
     - Seguimos usando maquinarias de tipo arcade para jugar. El desarrollo de estos juegos se sigue haciendo por medio de circuitos, con programas creados mediante compuertas lógicas y circuitos electrónicos.
     - Solo ingenieros muy hábiles tenían la capacidad de entender y crear este tipo de juegos, además de que las herramientas requeridas para hacerlos no estaban al alcance de la población en general. Normalmente eran desarrollados por los gigantes, como Atari, o por estudiantes con acceso a material y equipo en las universidades.
 
-![](Readme_src/image26.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image26.png">
+</p>
 
 5.  [The legend of Zelda](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6g2vk8Gudqs%26ab_channel%3DYTSunny&sa=D&source=editors&ust=1667515660007911&usg=AOvVaw2OlqU7v_pv7Ldq1Gfch642) [(1987](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6g2vk8Gudqs%26ab_channel%3DYTSunny&sa=D&source=editors&ust=1667515660008203&usg=AOvVaw2f3gqN1YmwUeTkl6l8n4Zy))
 
@@ -83,15 +87,17 @@ A continuación tenemos algunos pininos en el tema:
     - Este juego fue lanzado para la consola Nintendo Entertainment System (NES), salida en 1985.
     - **Pero ¿qué tiene esto que ver con Unity?**
     - Es aquí donde comienza la magia, donde la industria empieza a voltear a ver y buscar herramientas de desarrollo, puesto que ya no es necesaria una máquina específica para correr los juegos, si no que ahora existen consolas (muy pronto, computadores en todos los hogares) en las que solo se requiere hacer el programa y que estas lo interpreten.
-
-![](Readme_src/image11.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image11.png">
+</p>
 
 6.  [Star Fox](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZnmnpWKoUS0%26ab_channel%3DEspaciodejuegos&sa=D&source=editors&ust=1667515660009881&usg=AOvVaw0OIqw_6ST7YNxaXlXZ2vC5) [(1993](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZnmnpWKoUS0%26ab_channel%3DEspaciodejuegos&sa=D&source=editors&ust=1667515660010113&usg=AOvVaw0Mnb4kvC308_Sw80O_VbiE))
 
     - El primer juego de Star Fox, otra de las sagas más entrañables de Nintendo, también se creó para la consola NES, y en este caso es un referente en la innovación, pues haciendo uso del chip Super FX fue el primer videojuego en traer y en quedarse en las páginas de la historia por hacer uso del espacio tridimensional.
     - Al traer el espacio tridimensional a los juegos, es el valiente que resuelve cómo manejar matemáticamente este espacio, por medio de ecuaciones y matrices, para traer a la mesa algo más divertido e interesante.
-
-![](Readme_src/image6.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image6.png">
+</p>
 
 En el siguiente recurso se ofrece más información acerca de la historia de la que hemos sido parte:
 
@@ -230,8 +236,9 @@ En la misma página, Unity nos indica cuáles deben ser nuestros primeros pasos,
 ![](Readme_src/image31.png)
 
 Al dar clic en el botón de descarga vamos a descargar el instalador para Unity Hub el navegador nos indicará que se encuentra completamente descargado, solo debemos ejecutar el programa.
-
-![](Readme_src/image21.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image21.png">
+</p>
 
 Si te preguntas ¿por qué instalar Unity Hub y no solo el editor de Unity?
 
@@ -242,8 +249,9 @@ Unity tiene un proceso, en el cual puede convertir un proyecto de una versión v
 Así que para resolver el problema se creó Unity Hub, una herramienta con la que puedes tener en tu equipo varias versiones de Unity y, a su vez, puedes tener varios proyectos, cada uno con su propia versión del editor, con lo cual se deja de lado la tarea de hacer una gestión manual.
 
 La instalación del editor es muy sencilla, basta con seguir los pasos del instalador y pronto tendremos nuestro programa instalado.
-
-![](Readme_src/image1.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image1.png">
+</p>
 
 >\* La versión de Unity Hub no es estrictamente relevante, lo único que cambia es la cantidad de funciones de gestión disponibles, pero no altera los proyectos.
 
@@ -256,12 +264,14 @@ Si se ignora el listado de proyectos que depende de cada uno, podremos ver una i
 Antes de explicar qué hay en cada segmento de la interfaz, los invito a que agreguen su usuario, para que Unity pueda validar su licencia y no les ponga ninguna restricción al trabajar.
 
 Para realizar este proceso, puedes iniciarlo desde Unity Hub, dando clic en el ícono de usuario y seleccionando la opción de crear cuenta (create account), lo cual te llevará directamente a donde debes crear su cuenta y seleccionar tu licencia. Puedes elegir una licencia de tipo personal, que te dará acceso gratuito a la herramienta sin periodos de prueba.
-
-![](Readme_src/image24.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image24.png">
+</p>
 
 Una vez terminado su registro pueden volver a Unity Hub y seleccionar la opción de iniciar sesión (Sign in), llenar nuestros datos y ver como el icono de usuario cambia por uno personalizado, indicandonos cual es nuestra cuenta vinculada.
-
-![](Readme_src/image18.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image18.png">
+</p>
 
 La cuenta que acabas de crear es importante porque Unity liga sus servicios a las cuentas. Si realizas compras en su tienda de assets (lo veremos más adelante), si avanzas en la plataforma de aprendizaje de Unity, certificaciones, servicios en la nube, regalías de anuncios, entre otras cosas, se ligan a la cuenta, así que es cosa seria.
 
@@ -269,7 +279,9 @@ Ahora sí vamos a explicar qué opciones tenemos en el programa de Unity Hub.
 
 Opciones de Unity Hub
 -------------------
-![](Readme_src/image51.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image51.png">
+</p>
 
 Nos podemos dar cuenta inmediatamente de que Unity no tiene 100 % de su material traducido, por lo que es muy frecuente encontrar documentación y opciones en inglés. Todo el curso se dará en español, pero es altamente recomendable. para mejorar su experiencia. aprender inglés.
 
@@ -295,7 +307,9 @@ Es importante saber que esta versión está marcada como LTS, que significa long
 
 También cabe resaltar que los últimos dígitos, que en este caso son 11F1, pueden ir cambiando según las actualizaciones de esta versión, pero siempre será 2021.3 y debe indicarse cómo LTS.
 
-![](Readme_src/image22.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image22.png">
+</p>
 
 Learn (Aprendizaje)
 -------------------
@@ -319,50 +333,62 @@ Instalación
 Ahora sí, la hora ha llegado, vamos a instalar nuestro editor, que es donde realmente vamos a trabajar.
 
 Para ello, vamos a seleccionar la sección de Instalaciones (Installs) y a dar clic en el botón de Instalar editor (Install editor).
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image48.png">
+</p>
 
-![](Readme_src/image48.png)
 
 Esto nos mostrará un listado de las versiones de Unity disponibles; vamos a seleccionar la versión 2021.3.11f1 LTS.
 
-![](Readme_src/image10.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image10.png">
+</p>
 
 Una vez que damos clic en instalar (Install), vamos a ver un listado de opciones y características extra que tiene el editor para ver cuáles queremos descargar; no les recomiendo seleccionar todas, porque es una carga muy pesada para el equipo, sobre todo si tienen poco espacio en su disco duro. Solo hay que seleccionar lo que necesitamos. Siempre podemos volver a la sección de instalaciones y pedir que se descarguen más complementos para otras plataformas, de manera que no es algo crítico.
-
-![](Readme_src/image33.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image33.png">
+</p>
 
 Para este módulo y la mayoría de los siguientes, vamos a necesitar solo las herramientas para compilar en PC, de manera que solo necesitas descargar el editor Microsoft Visual Studio Community 2019. Aquí aparece que ya está instalado porque ya tengo otras versiones de Unity con este programa instalado.
 
 Afortunadamente Unity Hub ya hace este chequeo; anteriormente te instalaba Visual Studio tantas veces como versiones del editor tuvieras.
 
 \*Una recomendación personal es que puedes instalar el editor en un disco de estado sólido para que sea más rápido de cargar y que los proyectos, que también pueden ser muy grandes y pesados, los tengas en otro disco donde tengas mayor capacidad de espacio. Hay una forma de ingresar a las configuraciones de Unity para indicarle el directorio donde van a crear los proyectos; te recomiendo que hagas una carpeta especial y, así, tengas el control completo en una sola ubicación.
-
-![](Readme_src/image19.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image19.png">
+</p>
 
 Una vez iniciado el proceso de instalación, veremos cómo Unity Hub gestiona las descargas:
-
-![](Readme_src/image28.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image28.png">
+</p>
 
 Esperaremos un momento a que se realice la descarga y a continuación podremos crear proyectos.
-
-![](Readme_src/image15.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image15.png">
+</p>
 
 Para crear nuestro primer proyecto, vamos a ir al apartado de proyectos y dar clic en el botón de Nuevo proyecto.
-
-![](Readme_src/image34.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image34.png">
+</p>
 
 A continuación nos saldrá un listado de los tipos de proyecto que podemos crear. Todos estos son preconfiguraciones que podemos tomar como punto de partida; algunos de ellos inclusive son ejemplos completos listos, solo para darles play. En este caso, vamos a empezar con algo básico, que es crear un proyecto en 2D. Debemos agregar también el nombre del proyecto. Cabe resaltar que la versión de Unity la podemos seleccionar en esta misma ventana; de manera automática nos mostrará siempre la más nueva.
-
-![](Readme_src/image5.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image5.png">
+</p>
 
 Unity comenzará a trabajar inmediatamente en la creación de nuestro proyecto; lo agregará al directorio que tengamos predefinido y nos mostrará la pantalla de carga. Este proceso requiere poder de cómputo y puede tardar desde un instante hasta varios minutos.
-
-![](Readme_src/image14.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image14.png">
+</p>
 
 Unos pocos minutos después… o tal vez horas, vamos a ver nuestra pantalla principal, donde vamos a trabajar.
 
 Como digna introducción de Final fantasy o Dragon quest, después de horas de estar en el proceso, este es nuestro punto de partida.
-
-![](Readme_src/image16.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image16.png">
+</p>
 
 Interfaz del editor  
 -------------------
@@ -374,8 +400,9 @@ El editor de Unity es muy extenso, tanto que hay muchas funciones que están esc
 ![](Readme_src/image16.png)
 
 Esta primera pantalla de un proyecto en blanco es nuestro punto de partida. Antes que nada, vamos a observar cómo cada sección se encuentra identificada con una etiqueta en su parte superior izquierda, donde podemos leer el nombre de cada sección.
-
-![](Readme_src/image46.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image46.png">
+</p>
 
 Cada uno de estos elementos son llamados paneles o ventanas, en cada uno de estos vamos a encontrar diferentes configuraciones que nos van a ayudar a lograr lo que deseamos, vamos a tratar de no perder la cabeza de momento y vamos a ver una pequeña funcionalidad antes de cualquier cosa.
 
@@ -393,7 +420,9 @@ Vamos a ver cual es la función de cada una de las ventanas con el ejemplo de la
 
 [https://docs.unity3d.com/](https://www.google.com/url?q=https://docs.unity3d.com/&sa=D&source=editors&ust=1667515660066089&usg=AOvVaw3aQ9QpTK1iazM1TvAlqGif)
 
-![](Readme_src/image47.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image47.png">
+</p>
 
 Aquí vemos un proyecto con más cosas pero que nos sirve perfectamente para identificar las diferentes ventanas con la configuración que muestra la mayoría de herramientas más útiles del día a día.
 
@@ -440,8 +469,10 @@ De esta forma vemos como claramente las 3 ventanas interactúan, mostrando los e
 En este momento podemos cambiar a la ventana de game para ver cómo es que se visualiza nuestro juego hasta el momento cabe resaltar que se ve exactamente igual que como se ve en la ventana scene si seleccionamos en la hierarchy el gameobject de Main Cámara, observando que en scene aparece un elemento sobrepuesto con la misma vista en miniatura.
 
 ![](Readme_src/image13.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image39.png">
+</p>
 
-![](Readme_src/image39.png)
 
 Ahora para usar las otras dos ventanas vamos a tener que crear un componente, esto lo veremos en la siguiente sección.
 
@@ -469,8 +500,9 @@ Es así mismo como funcionan los gameobject, en Unity la unidad principal es est
 Unity funciona sobre una idea fundamental que es, crear pequeñas funciones que en suma logren ejecutar todo un sistema complejo, de manera que un pequeño robot como Wall-e, puede evolucionar en un Transformer como Optimus Prime. Ambos nacen del mismo núcleo pero tienen diferentes componentes que alteran su funcionamiento.
 
 En Unity cada gameobject se crea un componente que es universal, que se llama transform, este componente es indispensable para todos porque les ayuda a identificar en qué lugar de nuestra SCENE deben de aparecer.
-
-![](Readme_src/image9.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image9.png">
+</p>
 
 El componente transform controla tres variables que son:
 
@@ -482,7 +514,7 @@ Es importante observar que las variables del componente transform son divididas 
 
 Para hacer esto más sencillo vamos a ver un ejemplo, en este ejemplo creamos 3 triángulos y modificamos sus tamaños para formar una variación de la mitad y el doble del tamaño original.
 
-![](Readme_src/image50.gif)[\[a\]](#cmnt1)[\[b\]](#cmnt2)
+![](Readme_src/image50.gif)
 
 1.  Creamos un 2D Object de tipo sprite en forma de triángulo
 2.  En su componente transform lo ponemos en el origen
@@ -503,7 +535,7 @@ Nombre de objetos y Emparentamiento
 -------------------  
 ![](Readme_src/image27.gif)
 
-Existen varias formas de renombrar un GAMEOBJECT, esto es una tarea muy común de manera que aquí expondremos todas las formas para que cada uno pueda elegir la que más se acomode a su forma de trabajo.
+Existen varias formas de renombrar un gameobject, esto es una tarea muy común de manera que aquí expondremos todas las formas para que cada uno pueda elegir la que más se acomode a su forma de trabajo.
 
 1.  Renombrar al crear objeto
 
@@ -526,8 +558,9 @@ Existen varias formas de renombrar un GAMEOBJECT, esto es una tarea muy común d
 5.  Editar nombre desde Inspector
 
     Así también es posible cambiar el nombre del Objeto desde la ventana inspector, en donde veremos el campo de nombre del objeto seleccionado en la parte superior, simplemente podemos escribir el nombre que deseemos y el mismo se cambiará automáticamente en hierarchy de la misma manera.
-
-![](Readme_src/image20.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image20.png">
+</p>
 
 Es importante mencionar que se recomienda ampliamente tener cuidado con el nombre de los elementos y siempre ponerles un nombre descriptivo, debido a que nuestros proyectos conforme van creciendo, vamos a ir incrementando en gran medida la cantidad de objetos que existen.
 
@@ -568,8 +601,9 @@ En una escena 2D hay pocos movimientos que debemos perfeccionar.
 Adicionalmente cabe la pena resaltar que existe el indicador de tipos de acción que podemos ejecutar, estos tendrán mucho más relevancia y utilidad cuando cambiamos al modo 3D.
 
 Los diferentes tipos de movimiento por el orden en que aparecen en la barra de herramientas son:
-
-![](Readme_src/image4.png)
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/image4.png">
+</p>
 
 Es posible cambiar entre ellos de forma rápida al tener el cursor dentro de la ventana scene y presionar la letra correspondiente a cada uno por ejemplo R para activar la herramienta de escalado.
 
