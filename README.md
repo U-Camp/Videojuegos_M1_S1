@@ -12,7 +12,7 @@
 - [Community (comunidad)](#community-comunidad)
 - [Instalación](#instalación)
 - [Interfaz del editor](#interfaz-del-editor)
-- [Crear un GAMEOBJECT](#crear-un-gameobject)
+- [Crear un gameobject](#crear-un-gameobject)
 - [Componente TRANSFORM](#componente-transform)
 - [Nombre de objetos y Emparentamiento](#nombre-de-objetos-y-emparentamiento)
 - [Navegación en la escena](#navegación-en-la-escena)
@@ -457,7 +457,7 @@ Aquí vemos un proyecto con más cosas pero que nos sirve perfectamente para ide
 
 En esencia eso hacen las diferentes ventanas visibles en el acomodo DEFAULT, sin embargo, para que nos quede más claro vamos a hacer un ejemplo muy sencillo de crear un elemento y ver cómo es que esto se reproduce en cada una de las ventanas.
 
-Crear un GAMEOBJECT
+Crear un gameobject
 -------------------
 
 Primero que nada vamos a crear un objeto, hay varias formas de hacerlo, siendo una de las más sencilla el dar clic derecho mientras el cursor se encuentra dentro del área de la ventana de hierarchy. En el menú contextual que nos aparece vamos a elegir la opción de 2D object, luego vamos a indicar que vamos a crear un sprite y luego un triángulo.
