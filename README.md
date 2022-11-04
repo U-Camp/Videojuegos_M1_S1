@@ -227,7 +227,7 @@ Pasemos a la acción, o como decimos en México: ¡a darle, que es mole de olla
 Para empezar, vamos a ir a la página oficial de Unity:
 
 <p align="center">
-[unity.com](https://unity.com/es)
+  <a href="https://unity.com/es">unity.com</a>
 </p>
 
 ![](Readme_src/image8.png)
