@@ -116,7 +116,7 @@ Alguna vez te has preguntado **cómo sacan juegos de FIFA cada año.** Esa preg
 Cuando el mercado comenzó a crecer tanto, la velocidad de creación se convirtió en un elemento clave en la industria; muy pronto, algunas compañías empezaron a crear sus propios motores de juegos y programas de software muy especializados, que les servían para agilizar muchísimo su desarrollo y no tener que hacer de cero siempre todas las cosas; tal es el caso de Mario.
 
 <p align="center">
-**¿Alguna vez has jugado Mario Maker?**
+ <strong>¿Alguna vez has jugado Mario Maker?</strong>
 </p>
 
 ![](Readme_src/image2.png)
