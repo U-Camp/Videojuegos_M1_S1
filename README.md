@@ -183,7 +183,7 @@ Todas estas características son muy importantes para aquellos que desean aprend
 
 Pensemos en
 <p align="center">
-**¿Qué es más importante que las características que ofrece una herramienta?**
+<strong>¿Qué es más importante que las características que ofrece una herramienta?</strong>
 </p>
 
 Toma unos minutos para reflexionar antes de continuar la lectura.
