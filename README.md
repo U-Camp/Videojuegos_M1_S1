@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/master/Readme_src/Banner Github_Videojuegos_B.png">
+</p>
+
 ## Tabla de contenido
 - [Tabla de contenido](#tabla-de-contenido)
 - [Introducción](#introducción)
