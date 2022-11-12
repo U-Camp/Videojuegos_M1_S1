@@ -51,7 +51,7 @@ Es probable que no los conozcas, pero estos juegos inspiraron a quienes hoy en d
 
 A continuación tenemos algunos pininos en el tema:
 
-1.  [Nim 1940](https://www.archimedes-lab.org/game_nim/nim.html)
+1.  [Nim (1940)](https://www.archimedes-lab.org/game_nim/nim.html)
 
     - Un juego que pone a dos jugadores (una computadora y una persona) a elegir y sacar cerillos; es necesario un análisis matemático para elegir bien, y quien tome el último pierde.
     - En [este enlace](https://patents.google.com/patent/US2215544) puedes ver el plano original de la máquina que se necesitaba para este juego. **Máquinas de tamaños inconcebibles** hoy en día para un solo juego.
