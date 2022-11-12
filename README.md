@@ -51,15 +51,15 @@ Es probable que no los conozcas, pero estos juegos inspiraron a quienes hoy en d
 
 A continuación tenemos algunos pininos en el tema:
 
-1.  [Nim](https://www.google.com/url?q=https://www.archimedes-lab.org/game_nim/nim.html&sa=D&source=editors&ust=1667515659997574&usg=AOvVaw3UthL2-kjHVCapkyzTJuKG) [(1940](https://www.google.com/url?q=https://www.archimedes-lab.org/game_nim/nim.html&sa=D&source=editors&ust=1667515659998036&usg=AOvVaw39-E0Qmr-8va_ALqA_zLFR))
+1.  [Nim 1940](https://www.archimedes-lab.org/game_nim/nim.html)
 
     - Un juego que pone a dos jugadores (una computadora y una persona) a elegir y sacar cerillos; es necesario un análisis matemático para elegir bien, y quien tome el último pierde.
-    - En [este enlace](https://www.google.com/url?q=https://patents.google.com/patent/US2215544&sa=D&source=editors&ust=1667515659999256&usg=AOvVaw2Jez9_pVqO88J-0Xp1H02g) puedes ver el plano original de la máquina que se necesitaba para este juego. **Máquinas de tamaños inconcebibles** hoy en día para un solo juego.
+    - En [este enlace](https://patents.google.com/patent/US2215544) puedes ver el plano original de la máquina que se necesitaba para este juego. **Máquinas de tamaños inconcebibles** hoy en día para un solo juego.
 <p align="center">
 <img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/main/Readme_src/image49.png">
 </p>
 
-2.  [Pong](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000559&usg=AOvVaw1L7D100Nz7JWNWaz6_L10E) [(1972](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DfiShX2pTz9A%26ab_channel%3Dandys-arcade&sa=D&source=editors&ust=1667515660000970&usg=AOvVaw0RGnerpmw-_Adv_ht3EEZv))
+1.  [Pong (1972)](https://www.youtube.com/watch?v=fiShX2pTz9A&ab_channel=andys-arcade)
     - 32 años y mucho avance, sobre todo en el hardware, se requerían para hacer funcionar los juegos. **Atari** lanza al mercado el juego de Pong, un simulador de juego de pimpón para dos jugadores.
     - Tres años más tarde, Atari lanza la primera consola, una versión casera de Pong. En esta versión solo se podía jugar Pong y no era de cartuchos intercambiables.
      - Aquí comienza la acción de grandes compañías queriendo hacer sus propias máquinas de arcade y caseras para competir en el mercado.
@@ -67,7 +67,7 @@ A continuación tenemos algunos pininos en el tema:
 <img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/main/Readme_src/image12.png">
 </p>
 
-3.  [Space invaders](https://www.google.com/url?q=https://youtu.be/MU4psw3ccUI?t%3D15&sa=D&source=editors&ust=1667515660003457&usg=AOvVaw2_kYeOyq0P84VymXBDL_xB) [(1978](https://www.google.com/url?q=https://youtu.be/MU4psw3ccUI?t%3D15&sa=D&source=editors&ust=1667515660003898&usg=AOvVaw0hBDv4WALcX41UFzxsRH9J))
+3.  [Space invaders (1978)](https://www.youtube.com/watch?v=MU4psw3ccUI&t=15s&ab_channel=GameArchive-NoCommentaryGameplay)
 
     - El juego que hizo que todo el mundo perdiera la cabeza, el juego que comenzó la revolución de las máquinas arcade y a ver a los juegos con ánimo de competencia entre amigos.
     - Incluso, se dice que Space Invaders causó que hubiera escasez de monedas, debido a la popularidad del juego.
@@ -75,8 +75,7 @@ A continuación tenemos algunos pininos en el tema:
 <img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/main/Readme_src/image36.png">
 </p>
 
-4.  [Pacman](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdScq4P5gn4A%26ab_channel%3DOldClassicRetroGaming&sa=D&source=editors&ust=1667515660005541&usg=AOvVaw2TN46KxZkJBDwN-xqyXpLv) [(1980](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DdScq4P5gn4A%26ab_channel%3DOldClassicRetroGaming&sa=D&source=editors&ust=1667515660005948&usg=AOvVaw3mrfbfcTLEaRWp6BUUnHrk))
-
+1.  [Pacman (1980)](https://www.youtube.com/watch?v=dScq4P5gn4A&ab_channel=OldClassicRetroGaming) 
     - 40 años después de Nim, llega Pacman, uno de los primeros personajes entrañables, recordados y usados hasta nuestros días.
     - Seguimos usando maquinarias de tipo arcade para jugar. El desarrollo de estos juegos se sigue haciendo por medio de circuitos, con programas creados mediante compuertas lógicas y circuitos electrónicos.
     - Solo ingenieros muy hábiles tenían la capacidad de entender y crear este tipo de juegos, además de que las herramientas requeridas para hacerlos no estaban al alcance de la población en general. Normalmente eran desarrollados por los gigantes, como Atari, o por estudiantes con acceso a material y equipo en las universidades.
@@ -85,9 +84,8 @@ A continuación tenemos algunos pininos en el tema:
 <img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/main/Readme_src/image26.png">
 </p>
 
-5.  [The legend of Zelda](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6g2vk8Gudqs%26ab_channel%3DYTSunny&sa=D&source=editors&ust=1667515660007911&usg=AOvVaw2OlqU7v_pv7Ldq1Gfch642) [(1987](https://www.google.com/url?q=https://www.youtube.com/watch?v%3D6g2vk8Gudqs%26ab_channel%3DYTSunny&sa=D&source=editors&ust=1667515660008203&usg=AOvVaw2f3gqN1YmwUeTkl6l8n4Zy))
-
-    - El primer juego de Zelda, que no es el primer juego (si eres fan, seguramente sabes esto; si no, es más complicado de explicar), es mucho más fácil para aprender Unity (guiño, guiño). (En este enlace [puedes ver la cronología real y explicada](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DNBUbdDv8xos%26t%3D686s%26ab_channel%3DEurogamerspain&sa=D&source=editors&ust=1667515660008723&usg=AOvVaw0wFtLDzeVkrPgJ78nJ7mBB)).
+1.  [The legend of Zelda (1987)](https://www.youtube.com/watch?v=6g2vk8Gudqs&ab_channel=YTSunny)
+    - El primer juego de Zelda, que no es el primer juego (si eres fan, seguramente sabes esto; si no, es más complicado de explicar), es mucho más fácil para aprender Unity (guiño, guiño). (En este enlace [puedes ver la cronología real y explicada](https://www.youtube.com/watch?v=NBUbdDv8xos&t=686s&ab_channel=Eurogamerspain)).
     - Este juego fue lanzado para la consola Nintendo Entertainment System (NES), salida en 1985.
     - **Pero ¿qué tiene esto que ver con Unity?**
     - Es aquí donde comienza la magia, donde la industria empieza a voltear a ver y buscar herramientas de desarrollo, puesto que ya no es necesaria una máquina específica para correr los juegos, si no que ahora existen consolas (muy pronto, computadores en todos los hogares) en las que solo se requiere hacer el programa y que estas lo interpreten.
@@ -95,7 +93,7 @@ A continuación tenemos algunos pininos en el tema:
 <img src="https://github.com/U-Camp/7M_Videojuegos_M1_S1/raw/main/Readme_src/image11.png">
 </p>
 
-6.  [Star Fox](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZnmnpWKoUS0%26ab_channel%3DEspaciodejuegos&sa=D&source=editors&ust=1667515660009881&usg=AOvVaw0OIqw_6ST7YNxaXlXZ2vC5) [(1993](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DZnmnpWKoUS0%26ab_channel%3DEspaciodejuegos&sa=D&source=editors&ust=1667515660010113&usg=AOvVaw0Mnb4kvC308_Sw80O_VbiE))
+1.  [Star Fox (1993)](https://www.youtube.com/watch?v=ZnmnpWKoUS0&ab_channel=Espaciodejuegos)
 
     - El primer juego de Star Fox, otra de las sagas más entrañables de Nintendo, también se creó para la consola NES, y en este caso es un referente en la innovación, pues haciendo uso del chip Super FX fue el primer videojuego en traer y en quedarse en las páginas de la historia por hacer uso del espacio tridimensional.
     - Al traer el espacio tridimensional a los juegos, es el valiente que resuelve cómo manejar matemáticamente este espacio, por medio de ecuaciones y matrices, para traer a la mesa algo más divertido e interesante.
@@ -105,7 +103,7 @@ A continuación tenemos algunos pininos en el tema:
 
 En el siguiente recurso se ofrece más información acerca de la historia de la que hemos sido parte:
 
->[The Strong National Museum of Play](https://www.google.com/url?q=https://www.museumofplay.org/video_games/&sa=D&source=editors&ust=1667515660012104&usg=AOvVaw2Ie31mYsh9eWkE9yk12xcv)
+>[The Strong National Museum of Play](https://www.museumofplay.org/video_games/)
 
 En más de 80 años de historia, los videojuegos han pasado por una gran evolución, que nos permite hoy en día disfrutar de grandes títulos y, a su vez, tener a la mano la oportunidad de ser parte de aquellos que crean la magia.
 
@@ -123,7 +121,7 @@ Cuando el mercado comenzó a crecer tanto, la velocidad de creación se convirti
 
 Este juego es perfecto para explicar qué debe hacer un motor de juegos; en este caso, el juego, que es más bien un programa, permite al usuario crear niveles de Mario, al darle todos los assets que necesite, con funciones específicas, para que cada jugador pueda crear su propio nivel de Mario.
 
-Este tipo de herramientas es muy útil, pero hay un problema, solo sirve para hacer juegos de Mario. Nintendo lanzó recientemente el juego [Game Builder Garage](https://www.google.com/url?q=https://www.nintendo.com/store/products/game-builder-garage-switch/&sa=D&source=editors&ust=1667515660015175&usg=AOvVaw1wxV4tip4tk97YpqWeuQKg) para Nintendo Switch, en el cual puedes aprender a prototipar y crear juegos; problema solucionado. Ahora, otro problema: con esas herramientas no podemos monetizar nuestro juego, lanzarlo en diferentes plataformas, cargar nuestros propios assets o tener el control total para crear cosas personalizadas.
+Este tipo de herramientas es muy útil, pero hay un problema, solo sirve para hacer juegos de Mario. Nintendo lanzó recientemente el juego [Game Builder Garage](https://www.nintendo.com/store/products/game-builder-garage-switch) para Nintendo Switch, en el cual puedes aprender a prototipar y crear juegos; problema solucionado. Ahora, otro problema: con esas herramientas no podemos monetizar nuestro juego, lanzarlo en diferentes plataformas, cargar nuestros propios assets o tener el control total para crear cosas personalizadas.
 
 Y así pasamos de juegos muy buenos para el aprendizaje a tener que usar herramientas más profesionales, herramientas que se usan en el día a día de grandes compañías para desarrollar sus propios juegos y hacer las cosas increíbles que tanto amamos.
 
@@ -142,7 +140,7 @@ Ahora que entendemos que es un game engine, nos toca hablar de quienes son los j
         *   Fall Guys.
         *   Ruined King.
 
-    *   Se ha popularizado en [diferentes industrias](https://www.google.com/url?q=https://unity.com/solutions&sa=D&source=editors&ust=1667515660018696&usg=AOvVaw29bXOgBpfOJO-hXorJf5VR):
+    *   Se ha popularizado en [diferentes industrias](https://unity.com/solutions):
         *   Videojuegos.
         *   Cinematográfica y animación.
         *   Arquitectura.
@@ -196,19 +194,19 @@ Licenciamiento
 -------------------
 Pongámonos en los pies de las grandes compañías, que invierten muchísimo dinero en equipo y expertos para desarrollar durante meses e incluso años un juego. Todo ese tiempo y todas esas personas deben ser recompensados por su trabajo, y de algún lado debe salir ese dinero. Así, como en el cine, los grandes juegos representan grandes inversiones de tiempo y dinero. Las licencias marcan una pauta importante en el costo del proyecto o en las ganancias de este. No entraremos mucho en detalle, pero vamos a hablar un poco de cómo es que funcionan los diferentes licenciamientos en los motores.
 
-*  [Unity](https://www.google.com/url?q=https://store.unity.com/%23plans-business&sa=D&source=editors&ust=1667515660029928&usg=AOvVaw1nbrNzJJ78HwMBOGc4tZ07)
+*  [Unity](https://store.unity.com)
     *   Tiene varios tipos de licenciamientos, entre ellos dos que son gratuitos, para estudiantes y de tipo personal.
     *   Las licencias de modo plus o pro tienen un costo mensual y anual, que puede ir de los 400 hasta los 1,800 dólares por persona **al año**.
     *   El límite de uso de la herramienta en modo personal es facturar hasta un máximo de 100,000 dólares al año. Si tu juego factura menos que eso, puedes seguir en la capa gratuita; si no, estás obligado a comprar las licencias, según corresponda.
 
-* [Unreal](https://www.google.com/url?q=https://www.unrealengine.com/en-US/license&sa=D&source=editors&ust=1667515660031342&usg=AOvVaw1_kgnubaZsckAKkk1YY12o)
+* [Unreal](https://www.unrealengine.com/en-US/license)
     *   Tuvo un cambio importante para poder competir con Unity y ahora también vende licencias de costo fijo anual.
     *   La licencia gratuita de Unreal tiene algunos asteriscos.
         *   Es gratuito, siempre y cuando el producto (juego o programa) hecho con Unreal no genere ganancias de más de un millón de dólares, a perpetuidad.
         *   Una vez pasado el monto en ventas, Unreal pide regalías de 5 % del total de las ventas, a perpetuidad.
         *   Las capas empresariales de Unreal tienen un costo fijo anual por cada miembro del equipo. Para ser exactos, 1,500 dólares al año.
 
-* [Cryengine](https://www.google.com/url?q=https://www.cryengine.com/support/view/licensing&sa=D&source=editors&ust=1667515660033063&usg=AOvVaw0g8QPDw3zimQB0Tbn5OZ1S)
+* [Cryengine](https://www.cryengine.com/support/view/licensing)
     *   Ofrece únicamente una licencia de regalías de 5 % sobre las ganancias anuales del producto generado.
     *   Es libre de regalías con 5,000 dólares de ganancias al año o menos.
 
@@ -580,7 +578,7 @@ Existen varias formas de renombrar un gameobject, esto es una tarea muy común d
 
 Es importante mencionar que se recomienda ampliamente tener cuidado con el nombre de los elementos y siempre ponerles un nombre descriptivo, debido a que nuestros proyectos conforme van creciendo, vamos a ir incrementando en gran medida la cantidad de objetos que existen.
 
-Se recomienda ampliamente usar alguna convención como la [camelCase](https://www.google.com/url?q=https://es.wikipedia.org/wiki/Camel_case&sa=D&source=editors&ust=1667515660096334&usg=AOvVaw1OWZ9HaMxodql6T1-WsGEM) o la [snake\_case](https://www.google.com/url?q=https://en.wikipedia.org/wiki/Snake_case&sa=D&source=editors&ust=1667515660096906&usg=AOvVaw30tpxkZLcXtYk-sz7lmGfI) además de no usar carácteres especiales en la definición de nombres.
+Se recomienda ampliamente usar alguna convención como la [camelCase](https://es.wikipedia.org/wiki/Camel_case) o la [snake\_case](https://en.wikipedia.org/wiki/Snake_case) además de no usar carácteres especiales en la definición de nombres.
 
 En Unity también existe un concepto que se llama emparentamiento que tiene diferentes usos, muchos de ellos los iremos explorando a lo largo del curso, sin embargo, en su forma más simple el emparentamiento indica una relación entre los dos componentes, se explicará mejor en el siguiente ejemplo.
 
