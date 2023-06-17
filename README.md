@@ -111,7 +111,7 @@ Cuando el mercado comenzó a crecer tanto, la velocidad de creación se convirti
  <strong>¿Alguna vez has jugado Mario Maker?</strong>
 </p>
 
-![](Readme_src/image2.png)
+![](readme_assets/image2.png)
 
 Este juego es perfecto para explicar qué debe hacer un motor de juegos; en este caso, el juego, que es más bien un programa, permite al usuario crear niveles de Mario, al darle todos los assets que necesite, con funciones específicas, para que cada jugador pueda crear su propio nivel de Mario.
 
@@ -121,7 +121,7 @@ Y así pasamos de juegos muy buenos para el aprendizaje a tener que usar herrami
 
 Un motor de juegos es un punto de convergencia de todos los aspectos involucrados en la creación de un juego.
 
-![](Readme_src/image7.png)
+![](readme_assets/image7.png)
 
 Ahora que entendemos que es un game engine, nos toca hablar de quienes son los jugadores que hay en la mesa de los grandes, en este caso tenemos a:
 
@@ -185,7 +185,7 @@ Pensemos en
 
 Toma unos minutos para reflexionar antes de continuar la lectura.
 
-![](Readme_src/image35.png)
+![](readme_assets/image35.png)
 
 ¿Listos? la respuesta puede no ser muy obvia, lo cual es también muy importante, y es algo por lo que Unity ha ganado terreno: su **licenciamiento**.
 
@@ -233,7 +233,7 @@ Para empezar, vamos a ir a la página oficial de Unity:
   <a href="https://unity.com/es">unity.com</a>
 </p>
 
-![](Readme_src/image8.png)
+![](readme_assets/image8.png)
 
 Aquí, tendremos la oportunidad de seguir explorando qué es Unity, sus servicios, licencias, juegos desarrollados y acercamientos a distintas industrias. De la página nos interesa llegar a la opción para descargar Unity.
 
@@ -244,7 +244,7 @@ unity download
 
 En la misma página, Unity nos indica cuáles deben ser nuestros primeros pasos, los cuales vamos a seguir y a explorar en este curso.
 
-![](Readme_src/image31.png)
+![](readme_assets/image31.png)
 
 Al dar clic en el botón de descarga vamos a descargar el instalador para Unity Hub el navegador nos indicará que se encuentra completamente descargado, solo debemos ejecutar el programa.
 
@@ -270,7 +270,7 @@ La instalación del editor es muy sencilla, basta con seguir los pasos del insta
 
 Una vez que tenemos el programa abierto, se verá como se observa a continuación:
 
-![](Readme_src/image40.png)
+![](readme_assets/image40.png)
 
 Si se ignora el listado de proyectos que depende de cada uno, podremos ver una interfaz como la mostrada.
 
@@ -306,13 +306,13 @@ En el apartado de proyectos es justamente donde vamos a gestionar nuestros proye
 
 En este mismo espacio podemos crear nuevos proyectos, así como abrirlos, en caso de que los tengamos en el equipo pero no se encuentren en la lista. También podemos eliminar nuestros proyectos. Recuerda siempre tener un respaldo antes de borrar cualquier cosa. Y, por si tenías la duda, también hay que tener un respaldo antes de convertir un proyecto de una versión a otra; Unity siempre nos recordará de hacer esto, pero nos conviene que seamos nosotros quienes tengamos ese cuidado.
 
-![](Readme_src/image3.png)
+![](readme_assets/image3.png)
 
 ## Installs (instalaciones)
 
 En la sección de instalaciones, vamos a ver una lista de las diferentes versiones del editor que tenemos; de inicio, debe estar vacía, pero conforme vayamos trabajando se deben agregar los editores.
 
-![](Readme_src/image45.png)
+![](readme_assets/image45.png)
 
 Todavía no instalamos nuestro editor, pero es importante comentar, para aquellos que van a empezar a instalar el editor antes de seguir leyendo esto, que la versión que usaremos en el curso es la siguiente:
 
@@ -332,7 +332,7 @@ También cabe resaltar que los últimos dígitos, que en este caso son 11F1, pue
 
 El tercer apartado disponible en Unity Hub es una sección dedicada al aprendizaje, en la que encontramos proyectos y artículos de Unity que nos ayudarán a aprender nuevos conceptos. Unity ofrece muchos recursos de este tipo, porque para Unity es muy importante que su comunidad pueda ver las nuevas características y aprenda a utilizarlas. La mayoría del contenido, como lo comentamos anteriormente, está en inglés y tratan de mantenerlo al día, pero hay algunos temas que yo mismo he visto y se tienen que hacer adaptaciones al editor más actual.
 
-![](Readme_src/image42.png)
+![](readme_assets/image42.png)
 
 Los invito a que dejen que su curiosidad los invada y prueben algunos de estos materiales, sobre todo los llamados microproyectos, que son juegos que vienen codificados parcialmente y en los que Unity te va llevando de la mano para explicarte cómo realizar ciertos cambios. Estos representan una gran forma de aprender, aunque pueden ser abrumadores si no se conocen aún la interfaz y los conceptos básicos. Pero no te preocupes, porque estamos aquí para hacer que este primer acercamiento sea suave y que no te pierdas ningún detalle en el camino.
 
@@ -421,7 +421,7 @@ Unity es una herramienta poderosa, y como diría el buen tío Ben (de la pelícu
 
 El editor de Unity es muy extenso, tanto que hay muchas funciones que están escondidas, hasta que las mandamos llamar; pero no hablemos de eso. En su lugar, vamos a descubrir qué es lo que tenemos ante nosotros.
 
-![](Readme_src/image16.png)
+![](readme_assets/image16.png)
 
 Esta primera pantalla de un proyecto en blanco es nuestro punto de partida. Antes que nada, vamos a observar cómo cada sección se encuentra identificada con una etiqueta en su parte superior izquierda, donde podemos leer el nombre de cada sección.
 
@@ -433,11 +433,11 @@ Cada uno de estos elementos son llamados paneles o ventanas, en cada uno de esto
 
 Una funcionalidad que tiene Unity es la de poder configurar las ventanas de la forma que se nos acomode mejor, de manera que si estamos trabajando con una ventana que está escondida y casi no es visible, podemos traerla al frente o combinarla con otras, por ejemplo podemos poner la ventana de game a un lado de la ventana de escena, con un simple drag and drop.
 
-![](Readme_src/image32.png)
+![](readme_assets/image32.png)
 
 De esta manera podemos generar un layout o acomodo personalizado. Unity conoce que hay ciertos acomodos que pueden ser mejores para cierto rol dentro de un desarrollo, es por eso que el acomodo puede ser una configuración que se guarde o que podemos seleccionar, de hecho ya existen opciones por defecto que podemos consultar en el apartado de layouts en la parte superior derecha del editor.
 
-![](Readme_src/image29.png)
+![](readme_assets/image29.png)
 
 Sientanse con la libertad de probarlos todos, según vayamos trabajando, el curso se llevará a cabo en su mayoría con una configuración muy parecida a la DEFAULT, pero no es ningún problema la configuración siempre y cuando entendamos para qué es cada una de las ventanas.
 
@@ -475,25 +475,25 @@ En esencia eso hacen las diferentes ventanas visibles en el acomodo DEFAULT, sin
 
 Primero que nada vamos a crear un objeto, hay varias formas de hacerlo, siendo una de las más sencilla el dar clic derecho mientras el cursor se encuentra dentro del área de la ventana de hierarchy. En el menú contextual que nos aparece vamos a elegir la opción de 2D object, luego vamos a indicar que vamos a crear un sprite y luego un triángulo.
 
-![](Readme_src/image43.png)
+![](readme_assets/image43.png)
 
 Una vez seleccionado vamos a ver que apareció en nuevo gameobject en la ventana de hierarchy y que también podemos ahora ver su representación visual en la ventana de scene.
 
-![](Readme_src/image17.png)
+![](readme_assets/image17.png)
 
 Observa que al dar click en el gameobject dentro de hierarchy se marca seleccionado, a diferencia de si seleccionamos por ejemplo el otro objeto que es la cámara (Objeto puesto por defecto). Al seleccionar los objetos en hierarchy se resaltan en la ventana scene.
 
-![](Readme_src/image44.png)
+![](readme_assets/image44.png)
 
 Y por si no lo observaron ya, también cambiar entre la selección de cada uno de ellos podemos ver todos sus atributos en la ventana inspector, esta ventana muestra siempre a detalle toda la información del objeto seleccionado.
 
-![](Readme_src/image38.png)
+![](readme_assets/image38.png)
 
 De esta forma vemos como claramente las 3 ventanas interactúan, mostrando los elementos que hay en la scene y sus propiedades.
 
 En este momento podemos cambiar a la ventana de game para ver cómo es que se visualiza nuestro juego hasta el momento cabe resaltar que se ve exactamente igual que como se ve en la ventana scene si seleccionamos en la hierarchy el gameobject de Main Cámara, observando que en scene aparece un elemento sobrepuesto con la misma vista en miniatura.
 
-![](Readme_src/image13.png)
+![](readme_assets/image13.png)
 
 <p align="center">
 <img src="/readme_assets/image39.png">
@@ -505,11 +505,11 @@ Hasta este momento vamos a realizar dos ejercicios
 
 1.  Realizar los movimientos necesarios para crear el siguiente layout en Unity
 
-![](Readme_src/image23.png)
+![](readme_assets/image23.png)
 
 2.  Agregar a la escena 5 objetos e intentar moverlos de lugar
 
-![](Readme_src/image37.png)
+![](readme_assets/image37.png)
 
 ## Componente TRANSFORM
 
@@ -539,7 +539,7 @@ Es importante observar que las variables del componente transform son divididas 
 
 Para hacer esto más sencillo vamos a ver un ejemplo, en este ejemplo creamos 3 triángulos y modificamos sus tamaños para formar una variación de la mitad y el doble del tamaño original.
 
-![](Readme_src/image50.gif)
+![](readme_assets/image50.gif)
 
 1.  Creamos un 2D Object de tipo sprite en forma de triángulo
 2.  En su componente transform lo ponemos en el origen
@@ -560,7 +560,7 @@ Nombre de objetos y Emparentamiento
 
 ---
 
-![](Readme_src/image27.gif)
+![](readme_assets/image27.gif)
 
 Existen varias formas de renombrar un gameobject, esto es una tarea muy común de manera que aquí expondremos todas las formas para que cada uno pueda elegir la que más se acomode a su forma de trabajo.
 
@@ -596,7 +596,7 @@ Se recomienda ampliamente usar alguna convención como la [camelCase](https://es
 
 En Unity también existe un concepto que se llama emparentamiento que tiene diferentes usos, muchos de ellos los iremos explorando a lo largo del curso, sin embargo, en su forma más simple el emparentamiento indica una relación entre los dos componentes, se explicará mejor en el siguiente ejemplo.
 
-![](Readme_src/image30.gif)
+![](readme_assets/image30.gif)
 
 A través del emparentamiento podemos hacer que un gameobject se convierta en Hijo de otro y esto ocasionará que el origen del objeto hijo ahora dependa del objeto padre lo que se llama local position, esto puede afectar de muchas formas pero la más visible es en su transform.
 
@@ -608,7 +608,7 @@ Por último y para terminar esta lectura seguramente te estarás preguntando alg
 
 Esto depende mucho de si estamos trabajando una escena 3D o 2D, comenzaremos con la más fácil que es la 2D.
 
-![](Readme_src/m1s1-movement-in-scene.gif)
+![](readme_assets/m1s1-movement-in-scene.gif)
 
 En una escena 2D hay pocos movimientos que debemos perfeccionar.
 
@@ -641,7 +641,7 @@ Es posible cambiar entre ellos de forma rápida al tener el cursor dentro de la 
 
 Para poner a prueba nuestros conocimientos básicos sobre el editor y los componentes vamos a realizar el siguiente ejercicio.
 
-![](Readme_src/image41.gif)
+![](readme_assets/image41.gif)
 
 Instrucciones:
 
